@@ -18,7 +18,7 @@ function App() {
         </a>
         <div>
           <h1>Hello from React!</h1>
-          <h2>Navbar added</h2>
+          //<h2>Navbar added</h2>
         </div>
       </header>
     </div>
